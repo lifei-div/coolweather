@@ -29,5 +29,6 @@ dependencies {
     implementation 'org.litepal.android:java:3.0.0'
     implementation "com.squareup.okhttp3:okhttp:4.4.0"//进行网络请求
     implementation 'com.google.code.gson:gson:2.8.6'//解析JSON数据
-    implementation 'com.github.bumptech.glide:glide:4.11.0'//加载和展示图片
+    implementation 'com.github.bumptech.glide:glide:4.11.0'
+    implementation 'androidx.swiperefreshlayout:swiperefreshlayout:1.2.0-alpha01'//加载和展示图片
 }
